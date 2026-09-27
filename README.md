@@ -2,7 +2,7 @@
 
 Site de uma pizzaria fictícia feito com **HTML, CSS e JavaScript puros**, sem framework. O cliente monta o pedido no cardápio e envia pronto pelo WhatsApp com um clique.
 
-🔗 **[Ver o site no ar](https://SEU-USUARIO.github.io/landing-page-pizzaria/)**
+🔗 **[Ver o site no ar](https://b4rao-dg.github.io/landing-page-pizzaria/)**
 
 ![Página inicial](docs/desktop.png)
 
