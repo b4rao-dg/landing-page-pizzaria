@@ -6,6 +6,8 @@ Site de uma pizzaria fictícia feito com **HTML, CSS e JavaScript puros**, sem f
 
 ![Página inicial](docs/desktop.png)
 
+![Montando um pedido](docs/demo.gif)
+
 ## Problema
 
 Muitas pizzarias de bairro só têm Instagram. O cliente precisa pedir o cardápio por mensagem, esperar a resposta, perguntar preço por preço e digitar o pedido inteiro. A pizzaria perde tempo respondendo e perde cliente que desiste no meio.

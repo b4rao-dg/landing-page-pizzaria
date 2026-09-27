@@ -27,6 +27,7 @@ body {
 h1, h2 { font-family: var(--fonte-titulo); line-height: 1.1; margin: 0 0 16px; }
 h2 { font-size: clamp(1.9rem, 4vw, 2.6rem); }
 a { color: inherit; }
+a, button { -webkit-tap-highlight-color: transparent; }
 
 .container { width: min(1120px, 100% - 32px); margin-inline: auto; }
 
