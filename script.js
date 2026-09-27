@@ -1,5 +1,5 @@
 // Troque pelo número real da pizzaria (DDI + DDD + número, só dígitos)
-const WHATSAPP = "5511999999999";
+const WHATSAPP = "5511968741917";
 
 // dia da semana (0 = domingo) -> [abre, fecha] em horas. Segunda fechado.
 const HORARIOS = { 0: [18, 23], 2: [18, 23], 3: [18, 23], 4: [18, 23], 5: [18, 23], 6: [18, 23] };
